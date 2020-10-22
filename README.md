@@ -3,6 +3,7 @@
 This chrome extension is inspired by gcp-console-colorize which changes header color of google conosole by projects.
 
 ## REFERENCES:
+- https://github.com/yfuruyama/gcp-console-colorize
 - https://chrome.google.com/webstore/detail/gcp-console-colorize/higjahjicmccalicmgfpokdmooopdhej
 - https://resizeimage.net/
 - http://waifu2x.udp.jp/
