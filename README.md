@@ -1,6 +1,6 @@
-# github-background-color-changer
+# chrome-extension-github-background-color-changer
 
-This extension is inspired by gcp-console-colorize which changes header color of google conosole by project.
+This chrome extension is inspired by gcp-console-colorize which changes header color of google conosole by projects.
 
 ## REFERENCES:
 - https://chrome.google.com/webstore/detail/gcp-console-colorize/higjahjicmccalicmgfpokdmooopdhej
